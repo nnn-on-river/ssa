@@ -2,7 +2,7 @@
 
 // #include "algo/generators/mackey_glass_generator.hpp"
 
-#include "ssa_model.hpp"
+#include "ssa.hpp"
 
 using namespace nnn;
 
