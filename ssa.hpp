@@ -2,7 +2,7 @@
 
 #include <cassert>
 
-#include "..\matrix_machinary.hpp"
+#include "matrix_machinary.hpp"
 
 // for forecasting,  q  signal noise ratio
 // q -> 0.0  L -> N/2;
